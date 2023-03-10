@@ -1,7 +1,8 @@
 # This project uses Vite React TS
 
-npm run dev to run
-npm run build for production
+'npm run dev' to run
+
+'npm run build' for production
 
 To do :
 - [x] Fetch data for infinite scroll
